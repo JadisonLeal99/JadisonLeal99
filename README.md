@@ -1,7 +1,7 @@
 ## Jadison Leal
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Jadison Leal, tenho 28 anos e sou da Bahia. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando o Entra21 na turma de Java no SENAC Blumenau. Sou apaixonado por tecnologia e café.
+Me chamo Jadison Leal, tenho 28 anos e sou da Bahia. Atualmente, estou cursando o Entra21 na turma de Java no SENAC Blumenau. Sou apaixonado por tecnologia e café.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -72,22 +72,6 @@ Me chamo Jadison Leal, tenho 28 anos e sou da Bahia. Concluí o ensino médio no
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -112,22 +96,6 @@ Me chamo Jadison Leal, tenho 28 anos e sou da Bahia. Concluí o ensino médio no
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -144,11 +112,11 @@ Me chamo Jadison Leal, tenho 28 anos e sou da Bahia. Concluí o ensino médio no
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <br/>
